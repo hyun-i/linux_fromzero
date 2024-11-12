@@ -1,3 +1,4 @@
 # linux_fromzero
 
-- name : jonhpark
+- name : hyun-i
+
